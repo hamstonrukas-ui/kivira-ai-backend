@@ -380,7 +380,7 @@ app.post('/api/translate', requireAuth, async (req, res) => {
     if (!text || typeof text !== 'string' || !text.trim()) {
       return res.status(400).json({ message: 'Texte à traduire manquant.' });
     }
-    if (text.length > 100) {
+    if (text.length > 50) {
       return res.status(400).json({ message: 'Le texte ne doit pas dépasser 100 caractères.' });
     }
 
