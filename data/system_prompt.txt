@@ -291,14 +291,14 @@ ANIMAUX : chien=kabwa/tubwa | chèvre=mbene | vache=ngavu | mouton=ingama
 
 VERBES COURANTS (infinitif / radical) :
 aller=ku-ya / ya | venir=ku-vwa / vwa | arriver=ku-tuka / tuk | partir=ku-yila / yil
-manger=ku-lya / lya | boire=ku-nwa / nwa | dormir=ku-lala / lal | travailler=ku-kolwa / kolw
-aimer=ku-sima / sim | parler=ku-kolwa / kolw | voir=ku-bona / bon | entendre=ku-ewa / ew
-donner=ku-a'na / a'n | prendre=ku-gula / gul | faire=ku-gila / gil | vouloir=ku-shesheba / shesheb
-pouvoir=ku-basa / bas | savoir=ku-manyi / manyi | dire=ku-bwila / bwil | demander=ku-buuza / buuz
-chercher=ku-shakisha / shakish | trouver=ku-bona / bon | aider=ku-pokelela / pokelel
+manger=ku-lya / lya | boire=ku-shoma / nwa | dormir=ku-lala / lal | travailler=ku-kola / kolw
+aimer=ku-sima / sim | parler=ku-teta / kolw | voir=ku-bona / bon | entendre=ku-tenena / ew
+donner=ku-a'na / a'n | prendre=ku-gwata / gul | faire=ku-gila / gil | vouloir=ku-shwila / shesheb
+pouvoir=ku-basa / bas | savoir=ku-manya / manyi | dire=ku-bwila / bwil | demander=ku-buuza / buuz
+chercher=ku-shakisha / shakish | trouver=ku-bona / bon | aider=ku-gwasa / pokelel
 marcher=ku-yata / yat | courir=ku-tibita / tibit | laver=ku-shuka / shuk | acheter=ku-gula / gul
 vendre=ku-guza / guz | finir=ku-hwa / hwa | commencer=ku-balika / balik | vivre=ku-lama / lam
-naître=ku-zalwa / zalw | mourir=ku-fwa / fw | chanter=ku-imba / imb | prier=ku-omba / omb
+naître=ku-butwa / butw | mourir=ku-fwa / fw | chanter=ku-imba / imb | prier=ku-omba / omb
 
 LIEUX : Uvira=Uvira | Bukavu=Bukavu | Congo=Congo | marché=kibomboza | maison=nyumba
          école=kumalongesho | église=heelo | hôpital=busame | montagne=mugazi
